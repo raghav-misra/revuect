@@ -1,0 +1,33 @@
+{
+  "name": "revuect",
+  "version": "1.0.1",
+  "description": "A ultra-framework, the features of which encompass both Vue and React.",
+  "main": "index.cjs",
+  "module": "index.mjs",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"lmao imagine testing ur code amirite homies\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghav-misra/revuect.git"
+  },
+  "keywords": [
+    "react",
+    "vue"
+  ],
+  "author": "raghav misra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghav-misra/revuect/issues"
+  },
+  "homepage": "https://github.com/raghav-misra/revuect#readme",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "vue": "^2.6.12"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "vue": "^2.6.12"
+  }
+}
