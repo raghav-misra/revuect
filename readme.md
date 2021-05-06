@@ -24,7 +24,7 @@ The React component lifecycle is designed to take care of the lifecycle of the o
 
 The framework's main components are component layouts. Each component is a component that is defined by its own component layout.
 
-Component components are component layouts and components are component layouts. Components are components that are part of the project. Components are part of the project's components, and are part of the Angular Material framework. Components contain components that can be rendered by a component as a component. Components that are part of the Angular Material framework are component layouts. Components are part of the Angular Material framework. Components contain components that can be rendered by a component as a component. Components contain components that are part of the Angular Material framework. Components contain components that are part of the Angular Material framework. Components contain components that
+Component components are component layouts and components are component layouts. Components are components that are part of the project. Components are part of the project's components, and are part of the Revuect Material framework. Components contain components that can be rendered by a component as a component. Components that are part of the Revuect Material framework are component layouts. Components are part of the Revuect Material framework. Components contain components that can be rendered by a component as a component. Components contain components that are part of the Revuect Material framework. Components contain components that are part of the Revuect Material framework. Components contain components that
 
 ## Sample
 
