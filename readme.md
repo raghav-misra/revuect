@@ -4,9 +4,9 @@ A ultra-framework, the features of which encompass both Vue and React.
 
 Revuect is a ultra-framework, the features of which encompass both Vue and React. The framework has the same core library that the Vue2 component already has but the React component is much more complex and needs to support a Vue2.
 
-The Vue component has been designed to support the most popular (and most stable) React components: React, Vue, Vue2, ReactVue, ReactVue2, ReactVue2. The React component is built using React.js in the React component. It is also built using [React], but the [ReactVue2] component is built using ReactVue.
+The Vue component has been designed to support the most popular (and most stable) React components: React, Vue, Vue2, ReactVue, ReactVue2, ReactVue2. The React component is built using React.js in the React component. It is also built using React, but the ReactVue2 component is built using ReactVue.
 
-The [React] implementation is built using React.js. It is also built using React, but the React
+The React implementation is built using React.js. It is also built using React, but the React
 Revuect is a ultra-framework, the features of which encompass both Vue and React. The framework has been designed to make using the React components, including React-Native, easier, and easier.
 
 With the React-Native SDK, we can easily build our custom components on top of our existing components, and react-native-react-native-es6 makes the entire process extremely easy.
